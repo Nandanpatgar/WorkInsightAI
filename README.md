@@ -227,10 +227,15 @@ This project explores the practical application of:
 ## Project Information
 
 **Project Name:** WorkInsight AI
+
 **Event:** Nexathon 2026
+
 **Institution:** Shree Devi Institute of Technology, Mangaluru, Karnataka
+
 **Team:** Clutch Crew
+
 **Domain:** Artificial Intelligence, Human Resources Technology, and Decision Support
+
 **Status:** Hackathon Prototype
 
 ## Acknowledgement
