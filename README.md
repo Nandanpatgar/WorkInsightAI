@@ -7,8 +7,11 @@ WorkInsight AI is a technology-driven platform designed to analyse employee resp
 ## Project Background
 
 **Event:** Nexathon 2026
+
 **Institution:** Shree Devi Institute of Technology, Mangaluru, Karnataka
+
 **Team Name:** Clutch Crew
+
 **Project Type:** Hackathon Prototype
 
 ### Problem Statement
